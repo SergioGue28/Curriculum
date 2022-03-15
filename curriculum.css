@@ -1,0 +1,270 @@
+
+body
+{
+    position: absolute;
+    font-family: Roboto;
+    background-color: antiquewhite;
+}
+
+.encabezado
+{
+    position: absolute;
+    color: #82859B;
+}
+
+.foto
+{
+    position: absolute;
+    border-radius: 20px;
+
+    width: 200px;
+    height: 250px;
+    left: 40px;
+    top: 40px;
+
+}
+.nombre
+{
+    position: absolute;
+
+    width: 700px;
+    height: 400px;
+    left: 290px;
+    top: 20px;
+    color: #000000;
+    font-size: 50px;
+}
+.carrera
+{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 290px;
+    top: 95px;
+    font-size: 30px;
+}
+
+.email
+{
+    position: absolute;
+
+    width: 500px;
+    height: 500px;
+    left: 290px;
+    top: 160px;
+}
+
+.numCelular
+{
+    position: absolute;
+
+    width: 500px;
+    height: 500px;
+    left: 550px;
+    top: 160px;
+}
+
+.descripcion
+{
+    position: absolute;
+
+    width: 500px;
+    height: 400px;
+    left: 290px;
+    top: 210px;
+    color: #000000;
+}
+
+.linea1
+{
+    position: absolute;
+    
+    width: 1700px;
+    height: 5px;
+    left: 0px;
+    top: 350px;
+}
+
+.linea2
+{
+    position: absolute;
+    left: 40px;
+    top: 470px;
+}
+
+
+
+.formacion
+{
+    position: absolute;
+    left: 40px;
+    top: 400px;
+    font-size: 30px;
+}
+
+.iesa
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 40px;
+    top: 520px;
+}
+
+.institucion
+{
+    position: absolute;
+    width: 200px;
+    left: 180px;
+    top: 510px;
+}
+
+
+.bachillerato
+{
+    position: absolute;
+    left: 180px;
+    top: 535px;
+    color: #82859B;
+}
+
+.iueIcono
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 40px;
+    top: 670px; 
+}
+
+.universidad
+{
+    position: absolute;
+    left: 180px;
+    top: 675px;  
+}
+
+.pregrado
+{
+    position: absolute;
+    width: 200px;
+    left: 180px;
+    top: 700px; 
+    color: #82859B;
+    
+}
+
+
+.habilidades
+{
+    position: absolute;
+    left: 580px;
+    top: 400px;
+    font-size: 30px;
+}
+
+.linea3
+{
+    position: absolute;
+    left: 580px;
+    top: 470px;
+}
+
+.bd
+{
+    position: absolute;
+    width: 200px;
+    left: 580px;
+    top: 510px;
+}
+
+.programacion
+{
+    position: absolute;
+    width: 200px;
+    left: 580px;
+    top: 600px; 
+}
+
+.elipse1
+{
+    position: absolute;
+    left: 600px;
+    top: 575px;
+}
+
+.sqlServer
+{
+    position: absolute;
+    width: 200px;
+    left: 620px;
+    top: 548px;
+    color: #82859B;
+}
+
+.elipse2
+{
+    position: absolute;
+    left: 600px;
+    top: 660px;
+}
+
+.java
+{
+    position: absolute;
+    width: 200px;
+    left: 620px;
+    top: 635px;
+    color: #82859B;
+}
+
+.elipse3
+{
+    position: absolute;
+    left: 600px;
+    top: 700px;  
+}
+
+.cchar
+{
+    position: absolute;
+    width: 200px;
+    left: 620px;
+    top: 675px;
+    color: #82859B;
+}
+
+.elipse4
+{
+    position: absolute;
+    left: 600px;
+    top: 740px;  
+}
+
+.python
+{
+    position: absolute;
+    width: 200px;
+    left: 620px;
+    top: 715px;
+    color: #82859B;
+}
+
+.iconoPython
+{
+    position: absolute;
+    left: 800px;
+    top: 540px;  
+
+}
+
+.iconoSql
+{
+    position: absolute;
+    left: 800px;
+    top: 650px;  
+
+}
+
+
+
